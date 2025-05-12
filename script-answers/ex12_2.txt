@@ -1,0 +1,14 @@
+Script started on 2025-05-11 17:02:32+07:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="76" LINES="39"]
+[?2004h]0;duong4444@DESKTOP-RNP2GDC: /mnt/c/Users/ADMIN/Desktop/p12_docker/part12-containers-applications/script-answers[01;32mduong4444@DESKTOP-RNP2GDC[00m:[01;34m/mnt/c/Users/ADMIN/Desktop/p12_docker/part12-containers-applications/script-answers[00m$ exitdocker container run -it ubuntu bash
+[?2004l[?2004h]0;root@352061e88ce5: /root@352061e88ce5:/# m script ex12_2.txt
+[?2004lScript started, output log file is 'ex12_2.txt'.
+# mkdir /usr/src/app
+# touch /usr/src/app/index.js
+# exit
+Script done.
+[?2004h]0;root@352061e88ce5: /root@352061e88ce5:/# exit
+[?2004lexit
+[?2004h]0;duong4444@DESKTOP-RNP2GDC: /mnt/c/Users/ADMIN/Desktop/p12_docker/part12-containers-applications/script-answers[01;32mduong4444@DESKTOP-RNP2GDC[00m:[01;34m/mnt/c/Users/ADMIN/Desktop/p12_docker/part12-containers-applications/script-answers[00m$ exit
+[?2004lexit
+
+Script done on 2025-05-11 17:03:23+07:00 [COMMAND_EXIT_CODE="0"]
