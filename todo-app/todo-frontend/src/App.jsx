@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <TodoView />
+      <p>npm install solve roofi</p>
     </div>
   );
 }
