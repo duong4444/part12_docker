@@ -6,6 +6,8 @@ COPY --chown=node:node . .
 
 RUN npm ci
 
+#use user node instead of root
+
 USER node
 
 CMD npm start
