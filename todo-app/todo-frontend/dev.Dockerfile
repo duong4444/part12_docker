@@ -1,6 +1,6 @@
 FROM node:20
 
-ENV VITE_BACKEND_URL=http://localhost:3000
+# ENV VITE_BACKEND_URL=http://localhost:3000
 
 WORKDIR /usr/src/app
 
